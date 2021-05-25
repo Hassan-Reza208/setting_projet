@@ -10,7 +10,7 @@ class _SharePageState extends State<SharePage> {
   @override
   Widget build(BuildContext context) => Scaffold(
     appBar: AppBar(
-      title: Text('Share'),
+      title: Text('Share & settings'),
       centerTitle: true,
       backgroundColor: Colors.green,
     ),
